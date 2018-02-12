@@ -2,7 +2,7 @@
 
 ## Summary
 These wine quality data sets were extracted from the [UCI Machine Learning Laboratory website](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
-The two datasets are related to red and white variants of the Portuguese ["Vino Verde" wine] (http://www.vinhoverde.pt/en/).
+The two datasets are related to red and white variants of the Portuguese [Vino Verde wine](http://www.vinhoverde.pt/en/).
 Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). 
 
 These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods. 
@@ -27,10 +27,11 @@ Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
 
 ## Source
+UCI Machine Learning Repo <https://archive.ics.uci.edu/ml/datasets/Wine+Quality>
 
-[aulo Cortez, University of Minho, Guimarães, Portugal](http://www3.dsi.uminho.pt/pcortez)
-A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal 
+Paulo Cortez, University of Minho, Guimarães, Portugal <http://www3.dsi.uminho.pt/pcortez>
+
 
 
 ## For More Information
-[Modeling wine preferences by data mining from physicochemical properties](http://www3.dsi.uminho.pt/pcortez/Home.html)
+Modeling wine preferences by data mining from physicochemical properties http://www3.dsi.uminho.pt/pcortez/Home.html
