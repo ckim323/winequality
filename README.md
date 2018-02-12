@@ -49,9 +49,11 @@ Output variable (based on sensory data):
 ## Source
 UCI Machine Learning Repo <https://archive.ics.uci.edu/ml/datasets/Wine+Quality>
 
-Paulo Cortez, University of Minho, Guimarães, Portugal <http://www3.dsi.uminho.pt/pcortez>
-
+"Modeling wine preferences by data mining from physicochemical properties" <https://www.sciencedirect.com/science/article/pii/S0167923609001377?via%3Dihub>
 
 
 ## For More Information
-Modeling wine preferences by data mining from physicochemical properties http://www3.dsi.uminho.pt/pcortez/Home.html
+
+Paulo Cortez, University of Minho, Guimarães, Portugal <http://www3.dsi.uminho.pt/pcortez>
+
+
