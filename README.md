@@ -49,7 +49,7 @@ Output variable (based on sensory data):
 ## Source
 UCI Machine Learning Repo <https://archive.ics.uci.edu/ml/datasets/Wine+Quality>
 
-"Modeling wine preferences by data mining from physicochemical properties" <https://www.sciencedirect.com/science/article/pii/S0167923609001377?via%3Dihub>
+"Modeling wine preferences by data mining from physicochemical properties" <https://pdfs.semanticscholar.org/bebb/83a340b77917acc0a59d55ddab066e9c1acf.pdf>
 
 
 ## For More Information
